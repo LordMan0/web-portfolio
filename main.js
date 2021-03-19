@@ -1,3 +1,5 @@
+let myPhoto = false
+
 function MyHead() {
     return(
         <div className="card container text-white bg-dark mb-3">

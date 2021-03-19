@@ -1,3 +1,5 @@
+let myPhoto = false;
+
 function MyHead() {
   return /*#__PURE__*/React.createElement("div", {
     className: "card container text-white bg-dark mb-3"
