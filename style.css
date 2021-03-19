@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(0, 0, 0, 0.95);
+}
+
+.header {
+    padding: 8px;
+}
+
+.main {
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.card {
+    max-width: 90%;
+    padding: 10px;
+    border-radius: 5rem;
+}
+
+.myphoto {
+    width: 340px;
+    height: 330px;
+}
+
+.text-on-card {
+    position: relative;
+    left: 30px;
+}
+
+img {
+    border-radius: 20%;
+}
+
+.github, .linkedin {
+    width: 40px;
+    height: 40px;
+}
