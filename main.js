@@ -13,7 +13,6 @@ function MyHead() {
                     </h5>
                     <p className="card-text">
                             <li>E-mail: gabrieldmanoel20@gmail.com</li>
-                            <li>Telefone: (19) 99459-9748</li>  
                     </p>
                     <p className="card-text"><small className="text-muted">Última atualização 19/03/2021</small></p>
                     <div className="row g-5">
