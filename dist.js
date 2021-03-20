@@ -20,7 +20,7 @@ function MyHead() {
     className: "display-6"
   }, "Gabriel Domingues Manoel")), /*#__PURE__*/React.createElement("p", {
     className: "card-text"
-  }, /*#__PURE__*/React.createElement("li", null, "E-mail: gabrieldmanoel20@gmail.com"), /*#__PURE__*/React.createElement("p", {
+  }, /*#__PURE__*/React.createElement("li", null, "E-mail: gabrieldmanoel20@gmail.com")), /*#__PURE__*/React.createElement("p", {
     className: "card-text"
   }, /*#__PURE__*/React.createElement("small", {
     className: "text-muted"
