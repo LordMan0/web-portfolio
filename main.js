@@ -1,5 +1,3 @@
-let myPhoto = false
-
 function MyHead() {
     return(
         <div className="card container text-white bg-dark mb-3">
@@ -16,7 +14,7 @@ function MyHead() {
                     <p className="card-text">
                             <li>E-mail: gabrieldmanoel20@gmail.com</li>
                     </p>
-                    <p className="card-text"><small className="text-muted">Última atualização 19/03/2021</small></p>
+                    <p className="card-text"><small className="text-muted">Última atualização 27/03/2021</small></p>
                     <div className="row g-5">
                         <a className="col-1" href="https://github.com/LordMan0">
                         <img className="github" src="./src/icons/github-icon.png"/>
@@ -36,7 +34,10 @@ function ButtonForApps() {
     return(
         <div className="scrollBtn container text-center">
             <button type="button" className="btn btn-outline-light btn-lg"
-                onClick={ () => { scrollTo({ top: 935, behavior: 'smooth' }) } }
+                onClick={ () => {
+                    document.getElementById('hide-page').classList.remove('d-none') 
+                    scrollTo({ top: 935, behavior: 'smooth' }) 
+                } }
             >
                 Ver aplicações
             </button>

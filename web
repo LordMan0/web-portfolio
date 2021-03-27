@@ -1,0 +1,78 @@
+[33mcommit 37bc79e66783bad72f87cea78fd30cc7b698396a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 3d2d3da e95fb0d
+Author: Gabriel D. M <gmanoel057@gmail.com>
+Date:   Sat Mar 27 17:41:54 2021 -0300
+
+    Merge branch 'main' of https://github.com/LordMan0/web-portfolio
+
+[33mcommit e95fb0d0a38cbea73c772b6007d2281611486c71[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Gabriel Domingues Manoel <78428088+LordMan0@users.noreply.github.com>
+Date:   Fri Mar 19 23:22:15 2021 -0300
+
+    Update dist.js
+
+[33mcommit a66e565bf861736dffc2cdc7fa5c158aaf3b5513[m
+Author: Gabriel Domingues Manoel <78428088+LordMan0@users.noreply.github.com>
+Date:   Fri Mar 19 23:20:29 2021 -0300
+
+    Update main.js
+
+[33mcommit 25f10d865ed4abbd0e717c9fdcfdaa98e9edb0d9[m
+Author: Gabriel Domingues Manoel <78428088+LordMan0@users.noreply.github.com>
+Date:   Fri Mar 19 23:19:53 2021 -0300
+
+    Update dist.js
+
+[33mcommit 0712f5c205cd7fce69c6d0276eaacd1e58aabd45[m
+Author: Gabriel Domingues Manoel <78428088+LordMan0@users.noreply.github.com>
+Date:   Fri Mar 19 18:41:00 2021 -0300
+
+    Create README.md
+
+[33mcommit 275f4a985947257687810fe3c7d7dc03325befa0[m
+Author: Gabriel Domingues Manoel <78428088+LordMan0@users.noreply.github.com>
+Date:   Fri Mar 19 18:39:13 2021 -0300
+
+    Delete src/img directory
+
+[33mcommit fc2ccc84138a3492e2f6c78d9fc087d400618570[m
+Author: Gabriel Domingues Manoel <78428088+LordMan0@users.noreply.github.com>
+Date:   Fri Mar 19 18:38:36 2021 -0300
+
+    Delete README.md
+
+[33mcommit 3d2d3dafc7482cc14c3fababc838f252f804b423[m
+Author: Gabriel D. M <gmanoel057@gmail.com>
+Date:   Fri Mar 19 18:37:33 2021 -0300
+
+    Web version 1.1
+
+[33mcommit c75a982f05552ad69cac468d3c22eb64caff6813[m
+Author: Gabriel Domingues Manoel <78428088+LordMan0@users.noreply.github.com>
+Date:   Fri Mar 19 18:15:10 2021 -0300
+
+    Update README.md
+
+[33mcommit ea7f380481148eb1a8f0312fb246c0f28c2f249c[m
+Author: Gabriel Domingues Manoel <78428088+LordMan0@users.noreply.github.com>
+Date:   Fri Mar 19 18:14:56 2021 -0300
+
+    Create README.md
+
+[33mcommit 4547a4ccc841dc5c4d8d8c3f010047cae3086cd2[m
+Author: Gabriel D. M <gmanoel057@gmail.com>
+Date:   Fri Mar 19 17:01:47 2021 -0300
+
+    Web version 1.0
+
+[33mcommit 4daad45c1226116201857ef92c18f2d3facaeace[m
+Author: Gabriel D. M <gmanoel057@gmail.com>
+Date:   Fri Mar 19 11:57:08 2021 -0300
+
+    Apresentation finished
+
+[33mcommit e17116325c9093f3c9cc7b86b024598d9ed75fb1[m
+Author: Gabriel D. M <gmanoel057@gmail.com>
+Date:   Fri Mar 19 08:25:21 2021 -0300
+
+    Init app

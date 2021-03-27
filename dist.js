@@ -1,5 +1,3 @@
-let myPhoto = false;
-
 function MyHead() {
   return /*#__PURE__*/React.createElement("div", {
     className: "card container text-white bg-dark mb-3"
@@ -26,7 +24,7 @@ function MyHead() {
     className: "card-text"
   }, /*#__PURE__*/React.createElement("small", {
     className: "text-muted"
-  }, "\xDAltima atualiza\xE7\xE3o 19/03/2021")), /*#__PURE__*/React.createElement("div", {
+  }, "\xDAltima atualiza\xE7\xE3o 27/03/2021")), /*#__PURE__*/React.createElement("div", {
     className: "row g-5"
   }, /*#__PURE__*/React.createElement("a", {
     className: "col-1",
@@ -50,6 +48,7 @@ function ButtonForApps() {
     type: "button",
     className: "btn btn-outline-light btn-lg",
     onClick: () => {
+      document.getElementById('hide-page').classList.remove('d-none');
       scrollTo({
         top: 935,
         behavior: 'smooth'
