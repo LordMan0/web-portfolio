@@ -67,72 +67,44 @@ ReactDOM.render( /*#__PURE__*/React.createElement(Menu, null), document.getEleme
 
 function ListPanel() {
   return /*#__PURE__*/React.createElement("div", {
-    className: "container row row-cols-1 row-cols-md-2 g-4"
+    className: "cardbody"
   }, /*#__PURE__*/React.createElement("div", {
-    className: "col text-center"
+    className: "cardcontainer"
   }, /*#__PURE__*/React.createElement("div", {
-    className: "app-card card mx-auto text-white bg-dark"
-  }, /*#__PURE__*/React.createElement("img", {
-    src: "./src/icons/MusicQuizIcon.jpg",
-    className: "card-img-top mx-auto"
-  }), /*#__PURE__*/React.createElement("div", {
-    className: "card-body"
-  }, /*#__PURE__*/React.createElement("h5", {
-    className: "card-title"
-  }, "Music Quiz"), /*#__PURE__*/React.createElement("p", {
-    className: "card-text"
-  }, "Aplica\xE7\xE3o de quiz sobre conhecimento musicais (em especial m\xFAsica internacional)."), /*#__PURE__*/React.createElement("a", {
-    href: "https://lordman0-music-quiz.netlify.app/",
-    className: "btn btn-outline-secondary"
+    className: "cardvow"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "cardbox"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "cardcontent"
+  }, /*#__PURE__*/React.createElement("h2", null, "01"), /*#__PURE__*/React.createElement("h3", null, "Music Quiz"), /*#__PURE__*/React.createElement("p", null, "Aplica\xE7\xE3o de quiz sobre conhecimento musicais (em especial m\xFAsica internacional)."), /*#__PURE__*/React.createElement("a", {
+    href: "https://lordman0-music-quiz.netlify.app/"
   }, "Ver aplica\xE7\xE3o")))), /*#__PURE__*/React.createElement("div", {
-    className: "col text-center"
+    className: "cardvow"
   }, /*#__PURE__*/React.createElement("div", {
-    className: "app-card card mx-auto text-white bg-dark"
-  }, /*#__PURE__*/React.createElement("img", {
-    src: "./src/icons/TodoIcon.jpg",
-    className: "card-img-top mx-auto"
-  }), /*#__PURE__*/React.createElement("div", {
-    className: "card-body"
-  }, /*#__PURE__*/React.createElement("h5", {
-    className: "card-title"
-  }, "To-do List"), /*#__PURE__*/React.createElement("p", {
-    className: "card-text"
-  }, "Aplica\xE7\xE3o de lista de afazeres para anotar suas tarefas do dia a dia."), /*#__PURE__*/React.createElement("a", {
-    href: "https://lordman0-todo-list.netlify.app/",
-    className: "btn btn-outline-secondary"
+    className: "cardbox"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "cardcontent"
+  }, /*#__PURE__*/React.createElement("h2", null, "02"), /*#__PURE__*/React.createElement("h3", null, "To-do List"), /*#__PURE__*/React.createElement("p", null, "Aplica\xE7\xE3o de lista de afazeres para anotar suas tarefas do dia a dia."), /*#__PURE__*/React.createElement("a", {
+    href: "https://lordman0-todo-list.netlify.app/"
+  }, "Ver aplica\xE7\xE3o"))))), /*#__PURE__*/React.createElement("div", {
+    className: "cardcontainer"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "cardvow"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "cardbox"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "cardcontent"
+  }, /*#__PURE__*/React.createElement("h2", null, "03"), /*#__PURE__*/React.createElement("h3", null, "Weather App"), /*#__PURE__*/React.createElement("p", null, "Aplica\xE7\xE3o de informar o clima de qualquer cidade do mundo (al\xE9m de tamb\xE9m mostrar se est\xE1 de dia ou de noite)."), /*#__PURE__*/React.createElement("a", {
+    href: "https://lordman0-weather-app.netlify.app/"
   }, "Ver aplica\xE7\xE3o")))), /*#__PURE__*/React.createElement("div", {
-    className: "col text-center"
+    className: "cardvow"
   }, /*#__PURE__*/React.createElement("div", {
-    className: "app-card card mx-auto text-white bg-dark"
-  }, /*#__PURE__*/React.createElement("img", {
-    src: "./src/icons/WAppIcon.jpg",
-    className: "card-img-top mx-auto"
-  }), /*#__PURE__*/React.createElement("div", {
-    className: "card-body"
-  }, /*#__PURE__*/React.createElement("h5", {
-    className: "card-title"
-  }, "Weather App"), /*#__PURE__*/React.createElement("p", {
-    className: "card-text"
-  }, "Aplica\xE7\xE3o de informar o clima de qualquer cidade do mundo (al\xE9m de tamb\xE9m mostrar se est\xE1 de dia ou de noite)."), /*#__PURE__*/React.createElement("a", {
-    href: "https://lordman0-weather-app.netlify.app/",
-    className: "btn btn-outline-secondary"
-  }, "Ver aplica\xE7\xE3o")))), /*#__PURE__*/React.createElement("div", {
-    className: "col text-center"
+    className: "cardbox"
   }, /*#__PURE__*/React.createElement("div", {
-    className: "app-card card mx-auto text-white bg-dark"
-  }, /*#__PURE__*/React.createElement("img", {
-    src: "./src/icons/CurrencyConverterIcon.jpg",
-    className: "card-img-top mx-auto"
-  }), /*#__PURE__*/React.createElement("div", {
-    className: "card-body"
-  }, /*#__PURE__*/React.createElement("h5", {
-    className: "card-title"
-  }, "Currency Converter"), /*#__PURE__*/React.createElement("p", {
-    className: "card-text"
-  }, "Aplica\xE7\xE3o para obter as taxas de c\xE2mbio de acordo com o moeda desejada."), /*#__PURE__*/React.createElement("a", {
-    href: "https://lordman0-currency-converter.netlify.app/",
-    className: "btn btn-outline-secondary"
-  }, "Ver aplica\xE7\xE3o")))));
+    className: "cardcontent"
+  }, /*#__PURE__*/React.createElement("h2", null, "04"), /*#__PURE__*/React.createElement("h3", null, "Currency Converter"), /*#__PURE__*/React.createElement("p", null, "Aplica\xE7\xE3o para obter as taxas de c\xE2mbio de acordo com o moeda desejada."), /*#__PURE__*/React.createElement("a", {
+    href: "https://lordman0-currency-converter.netlify.app/"
+  }, "Ver aplica\xE7\xE3o"))))));
 }
 
 function Panel() {
