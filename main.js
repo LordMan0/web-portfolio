@@ -36,7 +36,7 @@ function ButtonForApps() {
             <button type="button" className="btn btn-outline-light btn-lg"
                 onClick={ () => {
                     document.getElementById('hide-page').classList.remove('d-none') 
-                    scrollTo({ top: 935, behavior: 'smooth' }) 
+                    scrollTo({ top: +700 , behavior: 'smooth' }) 
                 } }
             >
                 Ver aplicações

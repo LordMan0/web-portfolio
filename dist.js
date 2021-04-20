@@ -50,7 +50,7 @@ function ButtonForApps() {
     onClick: () => {
       document.getElementById('hide-page').classList.remove('d-none');
       scrollTo({
-        top: 935,
+        top: +700,
         behavior: 'smooth'
       });
     }
